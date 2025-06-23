@@ -122,8 +122,8 @@ Coming soon...
 👤 Author
 Douglas Mavarez
 📧 douglasandres1997@hotmail.com
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn : 
+💻 GitHub  : 
 
 📃 License
 This project is licensed under the MIT License.
